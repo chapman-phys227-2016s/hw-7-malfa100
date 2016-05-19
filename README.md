@@ -2,7 +2,7 @@
 
 **Author:** _\<your name\>_
 
-[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-7-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-7-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-7-malfa100.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-7-malfa100)
 
 **Due date:** 2016/04/05
 
@@ -30,4 +30,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-_\<your name\>_
+Andrew Malfavon

@@ -1,6 +1,6 @@
 # PHYS227 HW 7
 
-**Author:** _\<your name\>_
+**Author:** Andrew Malfavon 
 
 [![Build Status](https://travis-ci.org/chapman-phys227-2016s/hw-7-malfa100.svg?branch=master)](https://travis-ci.org/chapman-phys227-2016s/hw-7-malfa100)
 
